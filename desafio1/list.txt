@@ -1,3 +1,5 @@
 1-arroz
 2-feijão
 3-macarrão
+4-café
+5-açúcar
